@@ -1,7 +1,7 @@
 {
  
   "name": "my-app",
-  "homepage": "https://[shifnmalik].github.io/[TicTactToe]",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
